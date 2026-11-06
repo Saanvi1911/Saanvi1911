@@ -1,7 +1,7 @@
 # Saanvi Singh
 
-**Computer Science Engineering Undergrad · Aspiring Software Engineer · Problem Solver **  
-I am just someone who commits to GitHub
+**Computer Science Engineering Undergrad · Aspiring Software Engineer · Problem Solver**  
+I am just someone who commits to GitHub 😑
 
 ---
 
