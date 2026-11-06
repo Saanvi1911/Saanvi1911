@@ -22,6 +22,7 @@ I am just someone who commits to GitHub
 | :--- | :--- |
 | 🟡 **LeetCode** | Currenly a begineer |
 | 🔵 **GitHub** | Pattern Archetypes Repository |
+| 🔴 **Codeforces** | Unrated as of 2026 |
 
 ---
 
