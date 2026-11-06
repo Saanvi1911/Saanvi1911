@@ -18,9 +18,9 @@
 
 | Platform | Achievement / Tracking |
 | :--- | :--- |
-| 🟡 **LeetCode** | Currently a begineer|
-| 🔵 **GitHub** | Pattern Archetypes Repository |
-| 🔴 **Codeforces** | Unrated as of 2026 |
+| 🟡 **LeetCode** | Will Update Soon|
+| 🔵 **GitHub** | Will Update Soon|
+| 🔴 **Codeforces** | Will Update Soon |
 
 ---
 
