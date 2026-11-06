@@ -1,4 +1,4 @@
-# Saanvi Singh
+# Saanvi Singh 👩‍💻
 
 **1st Year Computer Science Undergrad · Competitive Programmer · Aspiring Software Engineer**  
 
