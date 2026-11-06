@@ -1,8 +1,13 @@
 # Saanvi Singh 
 
-**1st Year Computer Science Undergrad · Competitive Programmer · Aspiring Software Engineer**  
+**Computer Science Undergrad · Competitive Programmer · Aspiring Software Engineer**  
 
-* Just someone who commits on GitHub 
+* Currently a 1st year student 
+* Who commits on GitHub
+* And is consistent with her DSA and CP practice
+* And, occasionally burns out due to being over-ambitious
+* So, yep.. thats how her life's going right now
+
 
 ---
 ## 💻️ Tech Stack
