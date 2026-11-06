@@ -1,9 +1,8 @@
-# Saanvi Singh 👩‍💻
+# Saanvi Singh 
 
 **1st Year Computer Science Undergrad · Competitive Programmer · Aspiring Software Engineer**  
 
-* I am committed to committing on GitHub
-
+* I like my coffee like I like my IDEs; Dark and free 
 
 ---
 ## ⚡ Tech Stack
@@ -24,5 +23,6 @@
 
 ---
 
-## 🧱 Featured Repository
-* 💻️ **DSA_Solutions**: Architecting a pattern-first C++ codebase optimizing space down to $O(1)$.
+## 🧱 Featured Repository:
+* 💻️ **DSA_Solutions**: Store all the DSA Problems that I solve on Leetcode in this repository.
+* 💻️ **CP_Solutions**: Store all the Codeforces soltuions in this repository
