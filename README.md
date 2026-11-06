@@ -1,16 +1,19 @@
 # Saanvi Singh
 
-**Computer Science Engineering Undergrad · Aspiring Software Engineer · Problem Solver**  
+**Computer Science Engineering Undergrad · Competitive Programmer · Aspiring Software Engineer **  
 
-* I am just someone who commits to GitHub; but prominently I am a competitive programmer intersted in building my critical thinking ability, I believe its a great mental exercise 🙃
+* I am just someone who commits to GitHub; but prominently I am a competitive programmer intersted in building my critical thinking ability, I believe its a great mental exercise 
 
 ---
 ## ⚡ Tech Stack
 
-[![C++](https://shields.io)](https://isocpp.org)
-[![Python](https://shields.io)](https://python.org)
-[![Git](https://shields.io)](https://git-scm.com)
-[![Linux](https://shields.io)](https://linux.org)
+## ⚡ Tech Stack
+
+![C++](https://shields.io)
+![Python](https://shields.io)
+![Git](https://shields.io)
+![Linux](https://shields.io)
+
 ---
 
 ## 🏆 Algorithmic Milestones
