@@ -5,16 +5,12 @@
 * I am just someone who commits to GitHub 😑
 
 ---
-
 ## ⚡ Tech Stack
 
-<nobr>
-  <img src="https://shields.io" alt="C++" />
-  <img src="https://shields.io" alt="Python" />
-  <img src="https://shields.io" alt="Git" />
-  <img src="https://shields.io" alt="Linux" />
-</nobr>
-
+[![C++](https://shields.io)](https://isocpp.org)
+[![Python](https://shields.io)](https://python.org)
+[![Git](https://shields.io)](https://git-scm.com)
+[![Linux](https://shields.io)](https://linux.org)
 ---
 
 ## 🏆 Algorithmic Milestones
@@ -28,4 +24,4 @@
 ---
 
 ## 🧱 Featured Repository
-* ⚡ **DSA_Solutions**: Architecting a pattern-first C++ codebase optimizing space down to $O(1)$.
+* 💻️ **DSA_Solutions**: Architecting a pattern-first C++ codebase optimizing space down to $O(1)$.
