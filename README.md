@@ -2,7 +2,7 @@
 
 **1st Year Computer Science Undergrad · Competitive Programmer · Aspiring Software Engineer**  
 
-* I am committed to commiting on GitHub
+* I am committed to committing on GitHub
 
 
 ---
@@ -18,7 +18,7 @@
 
 | Platform | Achievement / Tracking |
 | :--- | :--- |
-| 🟡 **LeetCode** | Currenly a begineer|
+| 🟡 **LeetCode** | Currently a begineer|
 | 🔵 **GitHub** | Pattern Archetypes Repository |
 | 🔴 **Codeforces** | Unrated as of 2026 |
 
