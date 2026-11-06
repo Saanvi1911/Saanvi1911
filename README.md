@@ -1,6 +1,6 @@
 # Saanvi Singh
 
-**Computer Science Engineering Undergrad · Competitive Programmer · Aspiring Software Engineer**  
+**Computer Science Undergrad · Competitive Programmer · Aspiring Software Engineer**  
 
 * I am someone who commits to GitHub 
 
