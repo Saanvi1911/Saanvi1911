@@ -2,7 +2,7 @@
 
 **Computer Science Engineering Undergrad · Aspiring Software Engineer · Problem Solver**  
 
-* I am just someone who commits to GitHub 😑
+* I am just someone who commits to GitHub; but prominently I am a competitive programmer intersted in building my critical thinking ability, I believe its a great mental exercise 🙃
 
 ---
 ## ⚡ Tech Stack
