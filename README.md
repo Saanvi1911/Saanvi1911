@@ -2,7 +2,7 @@
 
 **1st Year Computer Science Undergrad · Competitive Programmer · Aspiring Software Engineer**  
 
-* Figuring 
+* Just someone who commits on GitHub 
 
 ---
 ## Tech Stack
