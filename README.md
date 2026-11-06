@@ -2,10 +2,10 @@
 
 **1st Year Computer Science Undergrad · Competitive Programmer · Aspiring Software Engineer**  
 
-* I like my coffee like I like my IDEs; Dark and free 
+* Figuring 
 
 ---
-## ⚡ Tech Stack
+## Tech Stack
 
 <p align="left">
 <img src="https://skillicons.dev/icons?i=c,cpp,python,github" />
@@ -24,5 +24,5 @@
 ---
 
 ## 🧱 Featured Repository:
-* 💻️ **DSA_Solutions**: Store all the DSA Problems that I solve on Leetcode in this repository.
-* 💻️ **CP_Solutions**: Store all the Codeforces soltuions in this repository
+* **DSA_Solutions**: Store all the DSA Problems that I solve on Leetcode in this repository.
+* **CP_Solutions**: Store all the Codeforces soltuions in this repository
