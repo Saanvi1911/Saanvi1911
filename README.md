@@ -5,7 +5,7 @@
 * Just someone who commits on GitHub 
 
 ---
-## Tech Stack
+## 💻️ Tech Stack
 
 <p align="left">
 <img src="https://skillicons.dev/icons?i=c,cpp,python,github" />
