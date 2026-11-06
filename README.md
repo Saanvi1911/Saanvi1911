@@ -13,13 +13,16 @@
 
 ---
 
-## 🏆 Algorithmic Milestones
+## ⭐️ Algorithmic Milestones
 
 | Platform | Achievement / Tracking |
 | :--- | :--- |
 | 🟡 **LeetCode** | Will Update Soon|
-| 🔵 **GitHub** | Will Update Soon|
 | 🔴 **Codeforces** | Will Update Soon |
+
+## 🏆 Achievements 
+
+* Will Update soon
 
 ---
 
