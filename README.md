@@ -2,7 +2,7 @@
 
 **Computer Science Undergrad · Competitive Programmer · Aspiring Software Engineer**  
 
-* I am someone who commits to GitHub 
+* I am committed to commiting in GitHub 
 
 ---
 ## ⚡ Tech Stack
@@ -17,7 +17,7 @@
 
 | Platform | Achievement / Tracking |
 | :--- | :--- |
-| 🟡 **LeetCode** | Currenly a begineer |
+| 🟡 **LeetCode** | Currenly a begineer|
 | 🔵 **GitHub** | Pattern Archetypes Repository |
 | 🔴 **Codeforces** | Unrated as of 2026 |
 
