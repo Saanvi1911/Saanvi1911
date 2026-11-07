@@ -7,7 +7,7 @@
 * And is consistent with her DSA and CP practice
 * And, occasionally burns out due to being over-ambitious
 * And yes... that's how her life's going right now
-* P.S: My fav superhero is Batman 🦇 
+
 
 ---
 ## 💻️ Tech Stack
