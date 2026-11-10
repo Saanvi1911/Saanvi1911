@@ -31,6 +31,6 @@
 
 ---
 
-## 🧱 Featured Repository:
+## 📁 Featured Repository:
 * **DSA_Solutions**: Store all the DSA Problems that I solve on Leetcode in this repository.
 * **CP_Solutions**: Store all the Codeforces solutions in this repository
