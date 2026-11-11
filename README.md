@@ -3,7 +3,7 @@
 **Computer Science Undergrad · Competitive Programmer · Aspiring Software Engineer**  
 
 * Currently a first year student
-* Who's working towards GSoC 2027 {Wish me luck :)}
+* Who's working towards open source contributions
 * And has started working on DSA and CP
 * On a consistent basis 
 
