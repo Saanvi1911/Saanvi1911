@@ -5,7 +5,7 @@
 * Currently a first year student
 * Who's working towards open source contributions
 * And has started working on DSA and CP
-* On a consistent basis 
+* On a consistent basis :)
 
 
 ---
