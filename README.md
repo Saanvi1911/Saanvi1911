@@ -2,11 +2,10 @@
 
 **Computer Science Undergrad · Competitive Programmer · Aspiring Software Engineer**  
 
-* Currently a 1st year student 
-* Who commits on GitHub
-* And is consistent with her DSA and CP practice
-* And, occasionally burns out due to being over-ambitious
-* And yes... that's how her life's going right now
+* Currently a first year student
+* Who's working towards GSoC 2027 {Wish me luck :)}
+* And has started working on DSA and CP
+* On a consistent basis 
 
 
 ---
