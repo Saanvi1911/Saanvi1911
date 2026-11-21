@@ -2,11 +2,10 @@
 
 **Computer Science Undergrad · Competitive Programmer · Aspiring Software Engineer**  
 
-* Currently a first year student
-* Who's working towards open source contributions
-* And has started working on DSA and CP
-* On a consistent basis :)
-
+ Hey! I am a First year student at JUIT Solan, pursuing Batchelor of Technology in Computer Science Engineering . 
+ Currently I'm learning Data structures and also practicing on Codeforces
+ I commit all my code that i have written on GitHub as of now
+ Will probably make projects here in future :)
 
 ---
 ## 💻️ Tech Stack
