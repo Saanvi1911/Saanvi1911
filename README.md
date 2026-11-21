@@ -2,7 +2,7 @@
 
 **Computer Science Undergrad · Competitive Programmer · Aspiring Software Engineer**  
 
- Hey! I am a First year student at JUIT Solan, pursuing Batchelor of Technology in Computer Science Engineering . 
+ Hey! I am a First year student at Jaypee University of Information Technology (JUIT) Solan, pursuing Batchelor of Technology in Computer Science Engineering . 
  Currently I'm learning Data structures and also practicing on Codeforces. 
  I commit all my code that i have written on GitHub as of now
  , will make projects here in future :)
