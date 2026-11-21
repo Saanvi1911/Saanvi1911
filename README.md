@@ -4,7 +4,7 @@
 
  Hey! I am a First year student at Jaypee University of Information Technology (JUIT) Solan, pursuing Batchelor of Technology in Computer Science Engineering . 
  Currently I'm learning Data structures and also practicing on Codeforces. 
- I commit all my code that i have written on GitHub as of now
+ I commit the codes I write on coding platforms over here
  , will make projects here in future :)
 
 ---
